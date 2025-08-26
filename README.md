@@ -1,4 +1,13 @@
-## Hi there 👋
+### About Me
+- Hello, my name is Ishaan Sharma and I am a Cloud Engineer.
+- Some of the technologies I work with are AWS, CloudFormation, Terraform, Java, Python, and Linux.
+- Currently, I am learning more about Infrastructure as Code (IaC) through Terraform.
+- Some interests of mine are learning more about the cloud and implementing security.
+- As of now, my GitHub has one repo to showcase some of my work with Terraform. I plan on adding more repos for sharing to my account.
+    - [AWS EC2 CW Agent Project](https://github.com/Isharma-mi/aws-terra-ec2-cw-agent) (Pinned as well)
+
+### Misc.
+- Outside of work I love to play video games and talk about Star Wars.
 
 <!--
 **Isharma-mi/isharma-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
