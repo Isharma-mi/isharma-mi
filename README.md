@@ -4,8 +4,9 @@
 - Currently, I am learning more about Infrastructure as Code (IaC) through Terraform.
 - Some interests of mine are learning more about the cloud and implementing security.
 - As of now, my GitHub has one repo to showcase some of my work with Terraform. I plan on adding more repos for sharing to my account.
-    - [AWS EC2 CW Agent Project](https://github.com/Isharma-mi/aws-terra-ec2-cw-agent) (Pinned as well)
-
+    - [*AWS EC2 CW Agent Project*](https://github.com/Isharma-mi/aws-terra-ec2-cw-agent) (Pinned as well)
+- [*My GitHub Pages*](https://isharma-mi.github.io/) for more info
+ 
 ### Misc.
 - Outside of work I love to play video games and talk about Star Wars.
 
