@@ -6,6 +6,7 @@
 - Repos representing some of my skills.
     - [*AWS EC2 CW Agent Project*](https://github.com/Isharma-mi/aws-terra-ec2-cw-agent)
     - [*S3 Event Driven Pipeline*](https://github.com/Isharma-mi/s3-event-driven-pipeline)
+    - [*S3 Static Website CICD*](https://github.com/Isharma-mi/s3-static-website-cicd)
 - [*My GitHub Pages*](https://isharma-mi.github.io/) for more info
  
 ### Misc.
